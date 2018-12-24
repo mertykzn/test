@@ -1,0 +1,140 @@
+2018-09-14 10:35:36 [3656-3732] :: Info :: 
+2018-09-14 10:35:36 [3656-3732] :: Info :: ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+2018-09-14 10:35:36 [3656-3732] :: Info :: DF Installer version: 8.53.220.5445
+2018-09-14 10:35:36 [3656-3732] :: Info :: Check for supported platforms.
+2018-09-14 10:35:36 [3656-3732] :: Info :: 1.0 - Start Pre-installation checks.
+2018-09-14 10:35:36 [3656-3732] :: Info :: 1.2 - Detected Windows Desktop (Non-server Edition)
+2018-09-14 10:35:36 [3656-3732] :: Info :: 1.11 - Pre-installation tests completed SUCCESSFULLY.
+2018-09-14 10:35:36 [3656-3732] :: Info :: 2.0 - Read Configuration and Setup Flags.
+2018-09-14 10:35:36 [3656-3732] :: Info :: 2.5 - Read Configuration and Setup Flags completed SUCCESSFULLY.
+2018-09-14 10:35:36 [3656-3732] :: Info :: 3.0 - Check for upgradability.
+2018-09-14 10:35:36 [3656-3732] :: Info :: Clean Installation for the first time.
+2018-09-14 10:35:36 [3656-3732] :: Info :: Clean Installation for the first time.
+2018-09-14 10:35:36 [3656-3732] :: Info :: 4.0 - Check if Windows Updates are pending.
+2018-09-14 10:35:36 [3656-3732] :: Info :: Windows Update System Reboot is NOT required.
+2018-09-14 10:35:36 [3656-3732] :: Info :: 4.2 - Windows Update System Reboot is NOT required.
+2018-09-14 10:35:36 [3656-3732] :: Info :: 4.3 - Windows Updates Historical Count = 25
+2018-09-14 10:35:36 [3656-3732] :: Info :: Component Based Servicing Reboot is NOT PENDING.
+2018-09-14 10:35:36 [3656-3732] :: Info :: 4.10 - Component Based Servicing Reboot is NOT PENDING.
+2018-09-14 10:35:36 [3656-3732] :: Info :: 4.13 - Query Updates (by History Count) = 25
+2018-09-14 10:35:36 [3656-3732] :: Info :: Query History ==> Queried 25 update(s)
+2018-09-14 10:35:36 [3656-3732] :: Info :: Query History ==> All updates have completed configuration.
+2018-09-14 10:35:36 [3656-3732] :: Info :: 4.17 - NO updates are IN-PROGRESS and PENDING configuration. PROCEED with DeepFreeze installation.
+2018-09-14 10:35:36 [3656-3732] :: Info :: 5.0 - Preprocess Thawspace volume drives.
+2018-09-14 10:35:36 [3656-3732] :: Info :: 5.9 - Preprocess Thawspace Volume Drives completed SUCCESSFULLY.
+2018-09-14 10:35:43 [3656-3732] :: Info :: Check for minimum available disk space
+2018-09-14 10:35:43 [3656-3732] :: Info :: Start DeepFreeze Installation
+2018-09-14 10:35:43 [3656-3732] :: Info :: Handle License Validation
+2018-09-14 10:35:43 [3656-3732] :: Info :: Handle Existing ThawSpaces
+2018-09-14 10:35:44 [3656-3732] :: Info :: Starting DeepFreeze Installation-1
+2018-09-14 10:35:44 [3656-3732] :: Info :: Setup DeepFreeze Install folder
+2018-09-14 10:35:44 [3656-3732] :: Info :: Copy DeepFreeze files
+2018-09-14 10:35:44 [3656-3732] :: Info :: Copy File From=DFC.exe To=C:\WINDOWS\system32\
+2018-09-14 10:35:45 [3656-3732] :: Info :: Copy File From=FrzState2k.exe To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\\_$Df\
+2018-09-14 10:35:45 [3656-3732] :: Info :: Copy File From=DeepFreezeAdapter.dll To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2018-09-14 10:35:46 [3656-3732] :: Info :: Copy File From=DFServ.exe To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2018-09-14 10:35:47 [3656-3732] :: Info :: Copy MOF files
+2018-09-14 10:35:47 [3656-3732] :: Info :: Copy File From=FaronicsProduct.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2018-09-14 10:35:47 [3656-3732] :: Info :: Copy File From=FaronicsProduct_v2.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2018-09-14 10:35:47 [3656-3732] :: Info :: Copy File From=DeepFreezeWorkstation.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2018-09-14 10:35:47 [3656-3732] :: Info :: MOF Compiler File = C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\1.bat
+2018-09-14 10:35:47 [3656-3732] :: Info :: Copy MOF files
+2018-09-14 10:35:47 [3656-3732] :: Info :: Copy File From=FaronicsProduct.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2018-09-14 10:35:47 [3656-3732] :: Info :: Copy File From=FaronicsProduct_v2.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2018-09-14 10:35:47 [3656-3732] :: Info :: Copy File From=DeepFreezeWorkstation.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2018-09-14 10:35:47 [3656-3732] :: Info :: MOF Compiler File = C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\1.bat
+2018-09-14 10:35:47 [3656-3732] :: Info :: Install MOF files
+2018-09-14 10:35:48 [3656-3732] :: Info :: Install DeepFreeze Service
+2018-09-14 10:35:50 [3656-3732] :: Info :: Detected Workstation Install
+2018-09-14 10:35:50 [3656-3732] :: Info :: Copy File From=DeepFrz.sys To=C:\WINDOWS\system32\drivers\
+2018-09-14 10:35:50 [3656-3732] :: Info :: Install Driver (DeepFrz.sys)
+2018-09-14 10:35:50 [3656-3732] :: Info :: Install Volume Filters
+2018-09-14 10:35:50 [3656-3732] :: Info :: Install Disk Filters
+2018-09-14 10:35:50 [3656-3732] :: Info :: Install Mouse Filter
+2018-09-14 10:35:50 [3656-3732] :: Info :: Install Keyboard Filter
+2018-09-14 10:35:50 [3656-3732] :: Info :: Install/Upgrade FarDisk Driver
+2018-09-14 10:35:50 [3656-3732] :: Info :: Copy File From=DfDiskLo.sys To=C:\WINDOWS\system32\drivers\
+2018-09-14 10:35:50 [3656-3732] :: Info :: Install Driver (DFDiskLo.sys)
+2018-09-14 10:35:50 [3656-3732] :: Info :: Install Disk Lower Filter
+2018-09-14 10:35:50 [3656-3732] :: Info :: Copy File From=DFFilter.sys To=C:\WINDOWS\system32\drivers\
+2018-09-14 10:35:50 [3656-3732] :: Info :: Install Driver (DFFilter.sys)
+2018-09-14 10:35:50 [3656-3732] :: Info :: NTFS File System supported
+2018-09-14 10:36:10 [3656-3732] :: Info :: Handle BootStat
+2018-09-14 10:36:10 [3656-3732] :: Error :: DInstall2000::RenameBootStat() - 1. MoveFileEx() call FAILED with an Error = 0x00000020 - The process cannot access the file because it is being used by another process. 
+2018-09-14 10:36:10 [3656-3732] :: Info :: Handle Crash Control
+2018-09-14 10:36:10 [3656-3732] :: Info :: Handle Logon
+2018-09-14 10:36:10 [3656-3732] :: Info :: Handle Check Disk
+2018-09-14 10:36:10 [3656-3732] :: Info :: Handle Miscellaneous Registry
+2018-09-14 10:36:10 [3656-3732] :: Info :: Copy MOF files
+2018-09-14 10:36:10 [3656-3732] :: Info :: Copy File From=FaronicsProduct.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2018-09-14 10:36:10 [3656-3732] :: Info :: Copy File From=FaronicsProduct_v2.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2018-09-14 10:36:10 [3656-3732] :: Info :: Copy File From=DeepFreezeWorkstation.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2018-09-14 10:36:10 [3656-3732] :: Info :: MOF Compiler File = C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\1.bat
+2018-09-14 10:36:10 [3656-3732] :: Info :: Install ThawSpaces
+2018-09-14 10:36:10 [3656-3732] :: Info :: Determining if existing ThawSpaces need to be retained
+2018-09-14 10:36:10 [3656-3732] :: Info :: Installing ThawSpace components
+2018-09-14 10:36:17 [3656-3732] :: Info :: Completed DeepFreeze Installation
+2018-09-14 10:36:22 [3656-3732] :: Info :: KcExitWindows::KcExitWindows(1.0) - ENTER
+2018-09-14 10:36:22 [3656-3732] :: Info :: KcExitWindows::KcExitWindows(1.1) - Modify Process Privileges
+2018-09-14 10:36:22 [3656-3732] :: Info :: KcExitWindows::KcExitWindows(1.2) - Launch Restart/Shutdown Thread
+2018-09-14 10:36:22 [3656-5532] :: Info :: KcExitWindows::ExitWin() - ENTER - Flags = 0x00000001
+2018-09-14 10:36:22 [3656-5532] :: Info :: KcExitWindows::ExitWin() - Modified Process Privilege()
+2018-09-14 10:36:23 [3656-5532] :: Info :: KcExitWindows::ExitWin() - REBOOT - 1-5 InitiateShutdownW() completed SUCCESSFULLY
+2018-09-14 10:36:23 [3656-5532] :: Info :: KcExitWindows::ExitWin() - REBOOT - 1-5 - 60 sec delay
+2018-11-16 10:19:14 [9236-8480] :: Info :: 
+2018-11-16 10:19:14 [9236-8480] :: Info :: ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+2018-11-16 10:19:14 [9236-8480] :: Info :: DF Installer version: 8.55.220.5505
+2018-11-16 10:19:14 [9236-8480] :: Info :: Check for supported platforms.
+2018-11-16 10:19:14 [9236-8480] :: Info :: 1.0 - Start Pre-installation checks.
+2018-11-16 10:19:14 [9236-8480] :: Info :: 1.2 - Detected Windows Desktop (Non-server Edition)
+2018-11-16 10:19:14 [9236-8480] :: Info :: DeepFreeze is installed and workstation is Thawed.
+2018-11-16 10:19:14 [9236-8480] :: Info :: 1.11 - Pre-installation tests completed SUCCESSFULLY.
+2018-11-16 10:19:14 [9236-8480] :: Info :: 2.0 - Read Configuration and Setup Flags.
+2018-11-16 10:19:14 [9236-8480] :: Info :: 2.5 - Read Configuration and Setup Flags completed SUCCESSFULLY.
+2018-11-16 10:19:14 [9236-8480] :: Info :: 3.0 - Check for upgradability.
+2018-11-16 10:19:14 [9236-8480] :: Info :: Previous DeepFreeze Installation Version=8.53.220.5445
+2018-11-16 10:19:14 [9236-8480] :: Info :: 3.9 - Check for upgradability completed SUCCESSFULLY.
+2018-11-16 10:19:14 [9236-8480] :: Info :: 4.0 - Check for Windows Updates that are pending configuration.
+2018-11-16 10:19:14 [9236-8480] :: Info :: Windows Updates Last Installation Count = 0
+2018-11-16 10:19:16 [9236-8480] :: Info :: UpdateSearcher->GetTotalHistoryCount() FAILED - The service cannot be started, either because it is disabled or because it has no enabled devices associated with it.  (0x80070422).
+2018-11-16 10:19:16 [9236-8480] :: Info :: 4.9 - NO updates are IN-PROGRESS and PENDING configuration. PROCEED with DeepFreeze installation.
+2018-11-16 10:19:16 [9236-8480] :: Info :: 5.0 - Preprocess Thawspace volume drives.
+2018-11-16 10:19:16 [9236-8480] :: Info :: 5.9 - Preprocess Thawspace Volume Drives completed SUCCESSFULLY.
+2018-11-16 10:19:20 [9236-8480] :: Info :: Start DeepFreeze Upgrade
+2018-11-16 10:19:20 [9236-8480] :: Info :: 7.0 - Upgrade DeepFreeze - Upgrade Without Uninstalling DeepFreeze Service
+2018-11-16 10:19:20 [9236-8480] :: Info :: 7.1 - Upgrade Without Uninstalling DeepFreeze Service
+2018-11-16 10:19:20 [9236-8480] :: Info :: 7.2 - System Directory
+2018-11-16 10:19:20 [9236-8480] :: Info :: 7.4 - Upgrading DeepFreeze Persi File
+2018-11-16 10:19:30 [9236-8480] :: Info :: FAILED to delete Persi File = C:\Persi0.sys. Trying Delete Upon Reboot API.
+2018-11-16 10:19:34 [9236-8480] :: Info :: 7.6 - Fix DeepFreeze Service Path
+2018-11-16 10:19:34 [9236-8480] :: Info :: 7.8 - Copying DeepFreeze Files
+2018-11-16 10:19:35 [9236-8480] :: Info :: Copy File From=DFC.exe To=C:\WINDOWS\system32\
+2018-11-16 10:19:36 [9236-8480] :: Info :: Copy File From=FrzState2k.exe To=C:\WINDOWS\temp\
+2018-11-16 10:19:36 [9236-8480] :: Info :: Copy MOF files.
+2018-11-16 10:19:36 [9236-8480] :: Info :: Copy File From=FaronicsProduct.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2018-11-16 10:19:36 [9236-8480] :: Info :: Copy File From=FaronicsProduct_v2.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2018-11-16 10:19:36 [9236-8480] :: Info :: Copy File From=DeepFreezeWorkstation.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2018-11-16 10:19:36 [9236-8480] :: Info :: MOF Compiler File = C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\1.bat
+2018-11-16 10:19:36 [9236-8480] :: Info :: Copy File From=DFServ.exe To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\DFServ.exe
+2018-11-16 10:19:36 [9236-8480] :: Info :: Copy File From=LogonDll.dll To=C:\WINDOWS\system32\LogonDll.dll
+2018-11-16 10:19:36 [9236-8480] :: Info :: Cleanup files from Deep Freeze folder
+2018-11-16 10:19:36 [9236-8480] :: Info :: Upgrade ThawSpaces
+2018-11-16 10:19:36 [9236-8480] :: Info :: Install / Upgrade FarDisk
+2018-11-16 10:19:36 [9236-8480] :: Info :: Copy File From=DeepFrz.sys To=C:\WINDOWS\system32\Drivers\
+2018-11-16 10:19:36 [9236-8480] :: Info :: Copy File From=DfDiskLo.sys To=C:\WINDOWS\system32\Drivers\
+2018-11-16 10:19:36 [9236-8480] :: Info :: Copy File From=DFFilter.sys To=C:\WINDOWS\system32\Drivers\
+2018-11-16 10:19:36 [9236-8480] :: Info :: 7.10 - Configure DeepFreeze Service
+2018-11-16 10:19:36 [9236-8480] :: Info :: 7.11 - Installing DF Adapter
+2018-11-16 10:19:36 [9236-8480] :: Info :: 7.13 - Upgrade Without Uninstalling DeepFreeze Service completed SUCCESSFULLY.
+2018-11-16 10:19:36 [9236-8480] :: Info :: 9.0 - Upgrade - Handle LANMAN
+2018-11-16 10:19:36 [9236-8480] :: Info :: 10.0 - Upgrade - Handle Hibernation
+2018-11-16 10:19:36 [9236-8480] :: Info :: 11.0 - Upgrade - Handle Firewall
+2018-11-16 10:19:36 [9236-8480] :: Info :: 12.0 - Upgrade - Copy MOF Files
+2018-11-16 10:19:36 [9236-8480] :: Info :: Copy File From=FaronicsProduct.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2018-11-16 10:19:36 [9236-8480] :: Info :: Copy File From=FaronicsProduct_v2.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2018-11-16 10:19:36 [9236-8480] :: Info :: Copy File From=DeepFreezeWorkstation.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2018-11-16 10:19:36 [9236-8480] :: Info :: MOF Compiler File = C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\1.bat
+2018-11-16 10:19:36 [9236-8480] :: Info :: 13.0 - Upgrade - Install MOF Files
+2018-11-16 10:19:37 [9236-8480] :: Info :: 14.0 - Upgrade - Handle Crash Control
+2018-11-16 10:19:37 [9236-8480] :: Info :: 15.0 - Upgrade - Handle Check Disk
+2018-11-16 10:19:37 [9236-8480] :: Info :: Completed DeepFreeze Upgrade
